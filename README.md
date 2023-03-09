@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SaeedVahdani
 - 👀 I’m interested in Wearable Robotics and Telerobotics.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Neurorehabilitation.
+- 🌱 I’m looking to collaborate on Neurorehabilitation.
 - 📫 How to reach me: s.saeed.vahdani@gmail.com
 
 <!---
